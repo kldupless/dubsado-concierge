@@ -14,11 +14,11 @@ font-family: "Bon Vivant Script";
 
 /* Global Dubsado styles */
 .jb-form {
-
 }
 
 .jb-form h1 {
 font-family: 'Roseritta', 'Cormorant Garamond', serif;
+  font-size: 3em;
 }
 
 .jb-form h2 {
