@@ -1,3 +1,6 @@
+/* Import Adobe Fonts */
+ @import url("https://use.typekit.net/nau6uyc.css");
+
 /* Import fonts */
 @font-face {
 font-family: "Roseritta";
@@ -13,8 +16,6 @@ font-family: "Bon Vivant Script";
   font-display: block;
 }
 
-/* Import Adobe Fonts */
- @import url("https://use.typekit.net/nau6uyc.css");
 
 /* Set color variables */
 :root {
@@ -34,8 +35,9 @@ font-family: "Bon Vivant Script";
 }
 
 .jb-form h1 {
-font-family: 'Roseritta', 'Cormorant Garamond', serif;
-  font-size: 3em;
+font-family: freightdispcmp-pro,serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .jb-form h2 {
