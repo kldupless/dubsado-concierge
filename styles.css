@@ -13,6 +13,9 @@ font-family: "Bon Vivant Script";
   font-display: block;
 }
 
+/* Import Adobe Fonts */
+ @import url("https://use.typekit.net/nau6uyc.css");
+
 /* Set color variables */
 :root {
   --kl-color-txt: #333333;
@@ -24,6 +27,9 @@ font-family: "Bon Vivant Script";
 
 /* Global Dubsado styles */
 .jb-form {
+  font-family: freight-display-pro,serif;
+  font-weight: 400;
+  font-style: normal;
   color: var(--kl-color-txt);
 }
 
