@@ -29,19 +29,23 @@ font-family: "Bon Vivant Script";
 /* Global Dubsado styles */
 .jb-form {
   font-family: freight-display-pro,serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   color: var(--kl-color-txt);
 }
 
 .jb-form h1 {
-font-family: freightdispcmp-pro,serif;
+font-family: 'Roseritta',serif;
 font-weight: 400;
 font-style: normal;
 }
 
 .jb-form h2 {
-
+font-family: freightdispcmp-pro,serif;
+font-weight: 400;
+font-style: normal;
+text-transform: uppercase;
+letter-spacing: .15em;
 }
 
 .jb-form h3 {
