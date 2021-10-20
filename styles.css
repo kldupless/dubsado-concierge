@@ -1,3 +1,4 @@
+/* Import fonts */
 @font-face {
 font-family: "Roseritta";
   src: url("https://krysialynne-concierge-dubsado.netlify.app/fonts/Roseritta.woff2") format("woff2");
@@ -12,8 +13,18 @@ font-family: "Bon Vivant Script";
   font-display: block;
 }
 
+/* Set color variables */
+:root {
+  --kl-color-txt: #333333;
+  --kl-color-bg: #f2f2f3;
+  --kl-color-light: #d8d5d2;
+  --kl-color-med: #B79579;
+  --kl-color-dark: #3A3D41;
+}
+
 /* Global Dubsado styles */
 .jb-form {
+  color: var(--kl-color-txt);
 }
 
 .jb-form h1 {
