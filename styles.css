@@ -1,1 +1,54 @@
+@font-face {
+font-family: "Roseritta";
+  src: url("https://krysialynne-concierge-dubsado.netlify.app/fonts/Roseritta.woff2") format("woff2");
+  font-weight: 400;
+  font-display: block;
+}
 
+@font-face {
+font-family: "Bon Vivant Script";
+  src: url("https://krysialynne-concierge-dubsado.netlify.app/fonts/Bon_Vivant_Script.woff2") format("woff2");
+  font-weight: 400;
+  font-display: block;
+}
+
+/* Global Dubsado styles */
+.jb-form {
+
+}
+
+.jb-form h1 {
+font-family: 'Roseritta', 'Cormorant Garamond', serif;
+}
+
+.jb-form h2 {
+
+}
+
+.jb-form h3 {
+
+}
+
+.jb-form h4 {
+
+}
+
+/* targets all the question text */
+.jb-form label {}
+
+/* short answer and date select boxes */
+.jb-form input {}
+
+/* free response boxes */
+.jb-form textarea {}
+
+/* dropdown boxes - including workflow and project tracking */
+.jb-form select {}
+
+/* date select button with calendar icon */
+.btn-cal {}
+
+/* image elements */
+.form-image {}
+
+#submitButton button {}
