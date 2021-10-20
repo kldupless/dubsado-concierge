@@ -65,6 +65,23 @@ text-transform: uppercase;
 letter-spacing: .25em;
 }
 
+/* Package select buttons */
+span.btn.btn-squared.border-around {
+border: none;
+background-color: var(--kl-color-bg);
+color: var(--kl-color-txt);
+font-family: nobel, sans-serif;
+font-weight: 700;
+font-style: normal;
+ text-transform: uppercase;
+ letter-spacing: .1em;
+}
+span.btn.btn-squared.border-around:active {
+border: none;
+background-color: var(--kl-color-dark);
+color: var(--kl-color-bg);
+}
+
 /* targets all the question text */
 .jb-form label {}
 
